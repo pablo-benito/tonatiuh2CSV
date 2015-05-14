@@ -7,5 +7,6 @@ Usage: Tonatiuh2CSV inputFile
 Generates a file called inputFile.csv
 
 Author: Pablo Benito (pbenito@cener.com)
+
 Bugs: Probably... just 20 minutes coding
 
