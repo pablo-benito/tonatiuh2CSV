@@ -1,6 +1,6 @@
 ## Tonatiuh2CSV 
 
-This program converts an output file of Tonatiuh (binary file) to a Comma-separated values (.csv) file
+This program converts the binary output file of [Tonatiuh](https://github.com/iat-cener/tonatiuh) to a Comma-separated values (.csv) file
 
 Usage: Tonatiuh2CSV inputFile 
 
